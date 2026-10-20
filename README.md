@@ -7,6 +7,7 @@
    - Maria Paula Zattera - 0165218
    - Rodrigo Figueredo - 0165002
    - Carla Sofía del Rosario Bravo Vazquez - 0163959
+   - Ramiro Guitar - 0167048
 
    ## Contenido
    - root.tar.gz, etc.tar.gz, opt.tar.gz, www_dir.tar.gz, backup_dir.tar.gz
