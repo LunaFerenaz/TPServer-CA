@@ -5,6 +5,7 @@
    ## Integrantes
    - Julian Luna Ferenaz – 0119871
    - Maria Paula Zattera - 0165218
+   - Rodrigo Figueredo - 0165002
    - Nombre Apellido – Legajo
 
    ## Contenido
